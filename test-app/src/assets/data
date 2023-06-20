@@ -1,0 +1,58 @@
+[
+    {
+
+        "imageUrl": " http://software-interview.abramad.com/images/img1.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Alice",
+            "avatarUrl": "http://software-interview.abramad.com/avatars/alice.jpg"
+        }
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img2.jpg",
+        "targetUrl": "https://abramad.com",
+        "postedBy": null
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img3.jpg",
+        "targetUrl": "https://systemgroup.net",
+        "postedBy": {
+            "name": "Charlie",
+            "avatarUrl": "http://software-interview.abramad.com/avatars/charlie.jpg"
+        }
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img4.jpg",
+        "targetUrl": null,
+        "postedBy": null
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img5.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Eric",
+            "avatarUrl": null
+        }
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img6.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Frantz",
+            "avatarUrl": null
+        }
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img7.jpg",
+        "targetUrl": null,
+        "postedBy": null
+    },
+    {
+        "imageUrl": " http://software-interview.abramad.com/images/img8.jpg",
+        "targetUrl": null,
+        "postedBy": {
+            "name": "Hollie",
+            "avatarUrl": null
+        }
+    }
+]
